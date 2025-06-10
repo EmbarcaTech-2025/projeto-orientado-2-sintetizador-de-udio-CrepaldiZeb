@@ -16,4 +16,4 @@ Campinas, 09/06 de 2025
 - Botão A para Gravar
 - Botão B para reproduzir
 
-[![Assista no YouTube](https://img.youtube.com/vi/wn3kXyhobPs/hqdefault.jpg)](https://www.youtube.com/watch?v=wn3kXyhobPs)
+[![Demonstração](https://img.youtube.com/vi/wn3kXyhobPs/hqdefault.jpg)](https://www.youtube.com/watch?v=wn3kXyhobPs)
