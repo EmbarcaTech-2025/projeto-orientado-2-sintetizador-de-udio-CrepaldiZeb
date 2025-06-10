@@ -10,6 +10,6 @@ Campinas, 09/06 de 2025
 
 ---
 
-Dispositivo de gravação e reprodução de audios na BitDogLAb.
+## Dispositivo de gravação e reprodução de audios na BitDogLAb.
 
-# Utilize o joystick para controlar o tempo de gravação e volume(Gain)
+- Utilize o joystick para controlar o tempo de gravação e volume(Gain)
